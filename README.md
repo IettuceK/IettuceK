@@ -1,18 +1,17 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Times+New+Roman&size=27&pause=1000&color=FFFF00&center=true&vCenter=true&width=915&height=40&lines=My+name+is+Sancho!;And+I%2C+Sancho%2C+declare+upon+my+honor%3A;this+lance+shall+end+that+festering%2C+slothful+dream!)](https://git.io/typing-svg)
-
 <div align="center">
-  <img width="65" height="65" alt="Gondola_Idle_Sprite" src="https://github.com/user-attachments/assets/5e471084-60b6-4333-a3f3-c1310c5f8bed" />
+  <img width="1442" height="1227" alt="Untitled303_20251019220331" src="https://github.com/user-attachments/assets/1092448f-ab9c-4b66-bc5c-507eeea0a25e" {1000x100} />
 </div>
 
 <div align="center">    
-  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=⠀bloodfeast⠀&color=FF0000&style=plastic" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=⠀cathy's+cleared⠀&color=FF0000&style=plastic" alt="Profile views"/>
 </div>
 
 <p align="center">
   <a href="https://boosfer.atabook.org"/> atabook</a> ⠀⠀
-  <img src="https://github.com/user-attachments/assets/78b0cc3b-4817-4e2f-8fa2-808b933817d3"/>⠀⠀
+  <img width="32" height="32" alt="Untitled314_20251025140543" src="https://github.com/user-attachments/assets/c28b561d-19a5-4fa2-909a-945dbbef9c56" />⠀⠀
   <a href="https://takumifujiwara.straw
-  page"/>strawpage</a>
+  page"/>strawpage</a>⠀⠀✦⠀⠀
+  <a href="https://rentry.co/gambitmace"/>rentry (colors are not balanced)</a>
 
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=FF0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
