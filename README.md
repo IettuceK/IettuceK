@@ -13,6 +13,8 @@
   page"/>strawpage</a>⠀⠀✦⠀⠀
   <a href="https://rentry.co/gambitmace"/>rentry (colors are not balanced)</a>
 
+<!--
+
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=FF0000&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
 </div> 
