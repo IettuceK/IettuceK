@@ -1,7 +1,8 @@
-<table>
+<p align="center">
+  <table>
   <td>    
 <div align="center">
-  <img width="340" height="180" alt="Untitled283_20251026171240" src="https://github.com/user-attachments/assets/e9c78713-ff2b-4dfd-8e9f-56ca723273aa" />
+  <img width="340" alt="Untitled283_20251026171240" src="https://github.com/user-attachments/assets/e9c78713-ff2b-4dfd-8e9f-56ca723273aa" />
 </div>
 
 <div align="center">    
@@ -16,6 +17,9 @@
 
 <p align="center">
   <a href="https://rentry.co/gambitmace"/>rentry</a>
+</p>
+</td>
+</table
 </p>
 
 <!--
