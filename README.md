@@ -4,20 +4,20 @@
 <div align="center">
   <img width="340" alt="Untitled283_20251026171240" src="https://github.com/user-attachments/assets/e9c78713-ff2b-4dfd-8e9f-56ca723273aa" />
 </div>
-
 <div align="center">    
   <img src="https://komarev.com/ghpvc/?username=Iimbus&label=⠀cathy's+cleared⠀&color=D9D7D2" alt="Profile views"/>
 </div>
-
 <p align="center">
   <a href="https://boosfer.atabook.org"/> atabook</a> ⠀ ✦⠀
   <a href="https://takumifujiwara.straw
   page"/>strawpage</a>
 </p>
-
 <p align="center">
   <a href="https://rentry.co/gambitmace"/>rentry</a>
 </p>
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=D9D7D2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
+</div>
 </td>
 </table
 </p>
