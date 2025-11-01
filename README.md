@@ -15,6 +15,15 @@ hello, links list.
 
 <!--
 
+bio
+
+⠀⠀ ️very talkative person GMT+07.00⠀⠀⠀⠀⠀⠀⠀⠀⠀　 　  ️　 　  ️　 　  ️　 　  ️⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀　  ️⠀ i also follow cool peoples :)
+
+
+___
+___
+___
+
 <p align="center">
   <table>
   <td>    
