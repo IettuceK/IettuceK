@@ -11,7 +11,7 @@ hello, links list.
 ⠀⠀⠀　 　
 ⠀⠀⠀　 　
 > [!note]
-> im sorry for what ive done, i know my word meant nothing.
+> im sorry for what ive done, i know my word meant nothing. pony town player really ruined my reputation and i know it.
 
 <!--
 
