@@ -18,6 +18,10 @@
 <div align="center">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=D9D7D2&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
 </div>
+    
+> [!important]
+> no, i never claim myself to be smart. stop spreading things about me
+    
 </td>
 </table
 </p>
