@@ -1,5 +1,3 @@
-hello, links list.
-
 [atabook](https://boosfer.atabook.org) - [strawpage](https://takumifujiwara.straw.page) - [rentry](https://rentry.co/gambitmace)
 ⠀⠀⠀　 　
 ⠀⠀⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀　 　
@@ -9,7 +7,7 @@ hello, links list.
 ⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　
 ⠀⠀⠀　 　
 ⠀⠀⠀　 　
-⠀⠀⠀　 　
+<!--⠀⠀　 　
 > [!note]
 > im sorry for what ive done, i know my word meant nothing. pony town player really ruined my reputation and i know it.
 
