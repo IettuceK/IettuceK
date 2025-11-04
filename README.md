@@ -1,4 +1,8 @@
-[atabook](https://boosfer.atabook.org) - [strawpage](https://takumifujiwara.straw.page) - [rentry](https://rentry.co/gambitmace)
+<p align="center">
+  <a href="https://boosfer.atabook.org">atabook</a> - 
+  <a href=">https://takumifujiwara.straw.page">strawpage</a> - 
+  <a href="https://rentry.co/gambitmace">rentry</a>
+</p>
 ⠀⠀⠀　 　
 ⠀⠀⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀　 　
 
