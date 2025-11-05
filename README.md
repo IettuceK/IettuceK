@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  "⠀⠀That answer will suffice, my lord.⠀⠀"
+  ${\color{#C7494D}"⠀\space That \space answer \space will \space suffice, \space my \space lord. \space ⠀"}$
 </p>
 
 <p align="center">
@@ -20,14 +20,11 @@
 <p align="center">
   <a href="https://rentry.co/gambitmace">rentry</a>
 </p>
-⠀⠀⠀　 　
-⠀⠀⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀　 　
 
+<div align="center">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=C7494D&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
+</div>
 
-⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　
-⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　⠀⠀⠀　 　
-⠀⠀⠀　 　
-⠀⠀⠀　 　
 <!--⠀⠀　 　
 > [!note]
 > im sorry for what ive done, i know my word meant nothing. pony town player really ruined my reputation and i know it.
