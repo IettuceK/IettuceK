@@ -25,6 +25,8 @@
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&cover_image=true&theme=novatorem&show_offline=false&background_color=120422&interchange=false&bar_color=C7494D&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=31eoartwwvi7637xugf2xowzc2d4&redirect=true)" alt="Spotify Now Playing" />
 </div>
 
+YES im slowly losing interest in projectmoon
+
 <!--⠀⠀　 　
 > [!note]
 > im sorry for what ive done, i know my word meant nothing. pony town player really ruined my reputation and i know it.
