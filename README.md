@@ -3,6 +3,23 @@
 </div>
 
 <p align="center">
+  ⠀
+  <a href="https://boosfer.atabook.org">atabook</a>⠀ 
+  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/45c5342a-4fee-4e1e-9e15-f2591d2b8b86" />⠀ 
+  <a href="https://takumifujiwara.straw.page">strawpage</a>
+</p>
+
+<p align="center">
+  <a href="https://rentry.co/gambitmace">rentry</a>
+</p>
+
+<!--
+
+<div align="center">    
+  <img src="https://komarev.com/ghpvc/?username=Iimbus&label=⠀⠀&color=2f2f2f" alt="Profile views"/>
+</div>
+
+<p align="center">
   <img width="560" height="590" alt="Untitled2_20251105082306" src="https://github.com/user-attachments/assets/9d448b38-a584-415b-beea-60096ddd7180" />
 </p>
 
