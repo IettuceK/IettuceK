@@ -5,7 +5,7 @@
 <p align="center">
   ⠀
   <a href="https://boosfer.atabook.org">atabook</a>⠀ 
-  <img width="25" height="25" alt="image" src="https://github.com/user-attachments/assets/45c5342a-4fee-4e1e-9e15-f2591d2b8b86" />⠀ 
+  ⠀ 
   <a href="https://takumifujiwara.straw.page">strawpage</a>
 </p>
 
